@@ -10,8 +10,8 @@ Es una tarea de reconocimiento de dígitos. Como tal, hay 10 dígitos (0 a 9) o 
 
 ## Funcionamiento
 <div align="center">
-<a href="https://youtu.be/RotIU6yR_ME" target="_blank">
-<img src="./img/024.png" >
+<a href="https://youtu.be/ACbtv4HB_io" target="_blank">
+<img src="./rnnn.png" >
 </a>
 <p>Demostración de funcionamiento</p>
 </div>
